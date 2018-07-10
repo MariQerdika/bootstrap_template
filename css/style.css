@@ -1,0 +1,269 @@
+.navbar-default{
+	background-color: #293847;
+	border: none;
+}
+.navbar-default .navbar-nav li a:hover {
+	color: #fff;
+}
+.navbar-default .navbar-brand:hover {
+	color: #fff;
+}
+/*---------- end top navigation style ----------*/
+
+.center {
+	padding: 50px 0;
+}
+h1 {
+	font-weight: bold;
+}
+h1 a{
+	text-decoration: none;
+	color: #fff;
+}
+h1 a:hover {
+	color: #333;
+	text-decoration: none;
+}
+.header_back {
+	background-color: #1eb390;
+}
+.logo_man {
+	background-color: #293847;
+	border-radius: 50%;
+	padding: 0 25px;
+}
+.mman a:hover .logo_man {
+	background-color: yellow;
+}
+.mman {
+	padding-top: 50px;
+}
+.menu li {
+	list-style-type: none;
+	float: left;
+}
+.header_menu a {
+	color: #fff;
+}
+.header_menu a:hover {
+	color: #333;
+}
+.header_menu {
+	padding-bottom: 50px;
+}
+
+/*---------- end header_back block style ----------*/
+
+.portfolio a {
+	color: #333;
+	font-weight: bold;
+}
+.portfolio a:hover {
+	color: #239bae;
+	text-decoration: none;
+}
+.icons {
+	padding-top: 0;
+}
+.logo1 {
+	background-color: #b1455a;
+	padding: 20px 0;
+	margin-bottom: 20px;
+}
+.logo2 {
+	background-color: #239bae;
+	padding: 20px 0;
+	margin-bottom: 20px;
+}
+.logo3 {
+	background-color: #110e0e;
+	padding: 20px 0;
+	margin-bottom: 20px;
+
+}
+.logo4{
+	background-color: #2079ba;
+	padding: 20px 0;
+	margin-bottom: 20px;
+}
+
+.logo5 {
+	background-color: #1333ab;
+	padding: 20px 0;
+	margin-bottom: 20px;
+}
+
+.logo6 {
+	background-color: #c4a899;
+	padding: 20px 0;
+	margin-bottom: 20px;
+}
+
+.logos img:hover {
+	transform: scale(1.1);
+	filter: brightness(140%);
+
+}
+.logos img {
+    border-radius: 95px;
+ 
+}
+.logos img:hover {
+	   box-shadow: 0 0 20px #fff;
+}
+
+/*---------- end portfolio block style --------*/
+
+.about_header a {
+	color: #fff;
+	font-weight: bold;
+}
+.about_header a:hover {
+	color: #333;
+	text-decoration: none;
+}
+.about_background{
+	background-color: #1eb390;
+}
+.about {
+	color: #fff;
+	line-height: 25px;
+	padding-bottom: 30px;
+}
+.button {
+	color: #337ab7;
+    text-decoration: none;
+    padding: 15px 25px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    margin-top: 100px;
+   }
+ .button span {
+ 	padding-left: 10px;
+ 	color: #fff;
+ }
+ .button i {
+ 	color: #fff;
+ }
+ .button:hover {
+ 	background-color: #293646;
+ 	cursor: pointer;
+ 	text-decoration: none;
+ }
+ .frm {
+ 	margin-bottom: 20px;
+ }
+
+ /*--------- end about block style ----------*/
+
+ .form-control {
+ 	border: none;
+ 	box-shadow: none;
+ 	border-bottom: 1px solid #e8e8e8;
+ 	border-radius: 0;
+ }
+ .button_sen {
+	background-color: #1eb390;
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 5px;
+   }
+ .button_sen span {
+ 	padding-left: 10px;
+ 	color: #fff;
+ }
+ .button_sen i {
+ 	color: #fff;
+ }
+ .button_sen:hover {
+ 	background-color: #293646;
+ 	cursor: pointer;
+ 	text-decoration: none;
+ }
+ .button_padding {
+ 	padding-bottom: 50px;
+ }
+
+ /*------------------- end form style -------------------*/
+
+.bottom_bar {
+	background-color:gray;
+}
+.main_footer h4 {
+	color: #fff;
+	padding-top: 20px;
+	text-transform: uppercase;
+}
+.main_footer p {
+	color:#fff;
+}
+.main_footer .soc_icons {
+	list-style-type: none;
+	text-align: center;
+}
+.soc_icons li i {
+	color: #fff;
+}
+.icons li {
+	float: left;
+}
+.green {
+	color: #1eb390;
+}
+.green:hover {
+	text-decoration: none;
+	color: #84d2bf;
+}
+.b_blue_dark_social {
+	padding: 10px 17px;
+	border:1px solid #fff;
+	border-radius: 50px;
+	margin-right: 15px;	
+	cursor: pointer;
+	display: inline-block;
+}
+.b_red_social {
+	padding: 10px 12px;
+	border:1px solid #fff;
+	border-radius: 50px;
+	margin-right: 15px;
+	cursor: pointer;
+	display: inline-block;
+}
+.b_blue_social {
+	padding: 10px 15px;
+	border:1px solid #fff;
+	border-radius: 50px;
+	margin-right: 15px;	
+	cursor: pointer;
+	display: inline-block;
+}
+.b_linkedin {
+	padding: 10px 15px;
+	border:1px solid #fff;
+	border-radius: 50px;
+	margin-right: 15px;
+	cursor: pointer;
+	display: inline-block;
+}
+.b_blue_dark_social:hover  {
+	background-color: #4b7caf;
+}
+.b_red_social:hover {
+	background-color: #e66958;
+}
+.b_blue_social:hover {
+	background-color: #4bcaff;
+}
+.b_linkedin:hover {
+	background-color: #32b7ef;
+}
+ .footer {
+ 	background-color: #333;
+ }
+ .footer p {
+ 	color: #fff;
+ 	padding-top: 10px;	
+ }
+
+ /*---------- end footer style, thanks :) ----------*/
