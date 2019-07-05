@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 .navbar-default{
 	background-color: #293847;
 	border: none;
